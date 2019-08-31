@@ -1,3 +1,3 @@
 # Web-dev-class-group-app
 
-[![Team Shihomi Web Project - Video]<img src="https://img.youtube.com/vi/vlUYgaB_c6M/0.jpg" width="100%">](https://www.youtube.com/watch?v=vlUYgaB_c6M)
+[![Team Shihomi Web Project - Video](https://github.com/andasan/Web-dev-class-group-app/blob/master/midterm/img/screenshot-127.0.0.1_5500-2019.08.30-17_11_52.jpg?raw=true)](https://www.youtube.com/watch?v=vlUYgaB_c6M)
