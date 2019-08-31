@@ -6,6 +6,8 @@
 
 Team Shihomi:
 ------
-@naoyama88(https://github.com/naoyama88)
-@ChingPingYang(https://github.com/ChingPingYang)
-@andasan(https://github.com/andasan)
+[@naoyama88](https://github.com/naoyama88)
+
+[@ChingPingYang](https://github.com/ChingPingYang)
+
+[@andasan](https://github.com/andasan)
